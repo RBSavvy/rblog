@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://RBSavvy.github.io/rblog/sitemap.xml 
+Sitemap: http://rbsavvy.com/rblog/sitemap.xml 

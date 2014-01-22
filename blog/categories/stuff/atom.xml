@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[RBlog]]></title>
-  <link href="http://rbsavvy.com/rblog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Stuff | RBlog]]></title>
+  <link href="http://rbsavvy.com/rblog/blog/categories/stuff/atom.xml" rel="self"/>
   <link href="http://rbsavvy.com/rblog/"/>
   <updated>2014-01-21T21:16:09-08:00</updated>
   <id>http://rbsavvy.com/rblog/</id>
