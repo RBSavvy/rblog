@@ -4,7 +4,7 @@
   <title><![CDATA[RBlog]]></title>
   <link href="http://rbsavvy.com/rblog/atom.xml" rel="self"/>
   <link href="http://rbsavvy.com/rblog/"/>
-  <updated>2014-01-21T21:19:36-08:00</updated>
+  <updated>2014-01-21T23:07:23-08:00</updated>
   <id>http://rbsavvy.com/rblog/</id>
   <author>
     <name><![CDATA[RBSavvy]]></name>
@@ -14,12 +14,16 @@
 
   
   <entry>
+    
     <title type="html"><![CDATA[Hello Blog]]></title>
     <link href="http://rbsavvy.com/rblog/blog/2014/01/21/hello-blog/"/>
+    
     <updated>2014-01-21T21:11:38-08:00</updated>
     <id>http://rbsavvy.com/rblog/blog/2014/01/21/hello-blog</id>
+    
     <content type="html"><![CDATA[<p>Hello blog-o-sphere</p>
 ]]></content>
+    
   </entry>
   
 </feed>
