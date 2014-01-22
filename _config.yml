@@ -76,6 +76,11 @@ google_plus_one_size: medium
 # Facebook Like
 facebook_like: true
 
+# Disqus Comments
+disqus_short_name: rbsavvy-blog
+disqus_show_comment_count: true
+
+
 mnml_mailto: contact@rbsavvy.com
 
 mnml_host_name: Github Pages
